@@ -1,5 +1,6 @@
 body {
-    background-color: #f3f706;
+    background: rgb(211,10,255);
+    background: linear-gradient(90deg, rgba(211,10,255,1) 0%, rgba(4,250,70,1) 9%, rgba(0,18,255,1) 100%);
     color: rgb(15, 14, 14);
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
